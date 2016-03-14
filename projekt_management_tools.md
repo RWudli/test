@@ -1,4 +1,5 @@
-# Redmine
+#Projekt Management Tools
+## Redmine
 
 | Beschreibung | Dauer | Kosten |
 | -- | -- | -- |
@@ -6,7 +7,7 @@
 | Cloud Lösung via bitnami für 3 Server | pro Jahr | 288$ |
 Mehr details unter [www.redmine.org](http://www.redmine.org) & [bitnami.com/cloud/pricing](https://bitnami.com/cloud/pricing)
 
-# easyRedmine
+## easyRedmine
 
 | Beschreibung | Dauer | Kosten |
 | -- | -- | -- |
@@ -15,7 +16,7 @@ Mehr details unter [www.redmine.org](http://www.redmine.org) & [bitnami.com/clou
 | Update für Basispaket Server | pro Jahr | 132$ |
 mehr details unter [www.easyredmine.com/pricing-buy](https://www.easyredmine.com/pricing-buy)
 
-#GitLab
+##GitLab
 
 | Beschreibung | Dauer | Kosten |
 | -- | -- | -- |
@@ -23,7 +24,7 @@ mehr details unter [www.easyredmine.com/pricing-buy](https://www.easyredmine.com
 | Basic Cloud Lösung | pro User pro Jahr | 39$ |
 Mehr details unter [about.gitlab.com/pricing](https://about.gitlab.com/pricing/)
 
-#GitHub
+##GitHub
 | Beschreibung | Dauer | Kosten |
 | -- | -- | -- |
 | Bronze Cloud Server (10 Private Repositorys) | pro Jahr | 300$ |
@@ -31,7 +32,7 @@ Mehr details unter [about.gitlab.com/pricing](https://about.gitlab.com/pricing/)
 | Large Cloud Server (50 Private Repositorys) | pro Jahr | 1200$ |
 Mehr details unter [github.com/pricing](https://github.com/pricing)
 
-# GitBook
+## GitBook
 
 | Beschreibung | Dauer | Kosten |
 | -- | -- | -- |
